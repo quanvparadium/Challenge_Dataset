@@ -3,3 +3,4 @@ tqdm
 pandas
 fake-useragent
 requests
+googletrans==4.0.0-rc1
